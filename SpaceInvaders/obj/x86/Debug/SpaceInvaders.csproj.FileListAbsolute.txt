@@ -1,0 +1,350 @@
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOver.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\temp.xnb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CopyComplete
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders (7)\A20 Ex02 AsafRabinovich 204154850 AilonLivny 204213847\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\ScreenSettings.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\AllowWindowResizing.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Done.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Full-Screen.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOver.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MouseVisability.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Play.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Player.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressEnterToPlay.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressEscToExit.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressMForMenu.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Quit.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\ScreenSettings.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Sounds-Settings.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CopyComplete
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders (9)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\AllowWindowResizing.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Done.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Full-Screen.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MouseVisability.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Play.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Player.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressEnterToPlay.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressEscToExit.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressMForMenu.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Quit.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\ScreenSettings.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Sounds-Settings.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CopyComplete
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\Users\User\Desktop\SpaceInvaders (10)\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\AllowWindowResizing.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Done.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Full-Screen.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MouseVisability.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Play.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Player.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressEnterToPlay.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressEscToExit.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\PressMForMenu.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Quit.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\ScreenSettings.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Sounds-Settings.xnb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ailon\Music\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\ScreenSettings.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.CopyComplete
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\User\Desktop\SpaceInvaders with sounds\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\EnemySpirteSheet.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\ScreenSettings.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\ComicSansMS.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\EnemiesSpirteSheet192X32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ailon\Desktop\הגשות מעודכנות\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Ailon\Desktop\SpaceInvaders final\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Desktop\SpaceInvaders final\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\Ailon\Desktop\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\Ailon\Desktop\SpaceInvaders\SpaceInvaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb

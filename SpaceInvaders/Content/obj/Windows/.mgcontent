@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Fonts/ComicSansMS.spritefont</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/BarrierHit.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/BGMusic.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/EnemyGunShot.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/EnemyKill.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/GameOver.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/LevelWin.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/LifeDie.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/MenuMove.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sounds/MotherShipKill.wav</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/AllowWindowResizing.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Barrier_44x32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/BG_Space01_1024x768.jpg</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Bullet.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Done.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/EnemiesSpirteSheet192X32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Enemy0101_32x32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Enemy0201_32x32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Enemy0301_32x32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Full-Screen.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/GameOver.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/MotherShip_32x120.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/MouseVisability.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Play.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Player.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/PressEnterToPlay.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/PressEscToExit.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/PressMForMenu.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Quit.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/ScreenSettings.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Ship01_32x32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Ship02_32x32.png</File>
+    <File>C:/Users/Ailon/Desktop/SpaceInvaders/SpaceInvaders/Content/Sprites/Sounds-Settings.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C49FF0D8-29AE-433A-BEFD-442EC4FAE7C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpaceInvaders</RootNamespace>
+    <AssemblyName>SpaceInvaders</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Infrastructure\Interfaces\IScreensMananger.cs" />
+    <Compile Include="Infrastructure\Managers\DummyInputManager.cs" />
+    <Compile Include="Infrastructure\Managers\ScreensMananger.cs" />
+    <Compile Include="Infrastructure\Managers\SoundManager.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\ConcreteAnimators\PulseAnimatorcs.cs" />
+    <Compile Include="Infrastructure\ObjectModel\CompositeDrawableComponent.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Menues\MenuItems\MultiItem.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Screens\GameScreen.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Sounds\Sound.cs" />
+    <Compile Include="Infrastructure\ObjectModel\TextAsSprite.cs" />
+    <Compile Include="SpaceInvaders\Managers\ConcreteManagers\EnemyMatrixManager.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Menues\Menu.cs" />
+    <Compile Include="Infrastructure\Managers\SettingsManager.cs" />
+    <Compile Include="SpaceInvaders\Managers\SpaceInvaderManager.cs" />
+    <Compile Include="SpaceInvaders\Managers\ConcreteManagers\SpaceShipsManager.cs" />
+    <Compile Include="SpaceInvaders\Menues\MainMenu.cs" />
+    <Compile Include="SpaceInvaders\Menues\ScreenSettingsMenu.cs" />
+    <Compile Include="SpaceInvaders\Menues\SoundsSettingsMenu.cs" />
+    <Compile Include="SpaceInvaders\Menues\StartMenu.cs" />
+    <Compile Include="SpaceInvaders\Screens\GameOverScreen.cs" />
+    <Compile Include="SpaceInvaders\Screens\GamePauseScreen.cs" />
+    <Compile Include="SpaceInvaders\Screens\IntroToLevelScreen.cs" />
+    <Compile Include="SpaceInvaders\Screens\MainMenuScreen.cs" />
+    <Compile Include="SpaceInvaders\Screens\ScreenSettingsScreen.cs" />
+    <Compile Include="SpaceInvaders\Screens\SoundsSettingsScreen.cs" />
+    <Compile Include="SpaceInvaders\FactoryMethods\SoundFactoryMethod.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Background.cs" />
+    <Compile Include="SpaceInvaders\Sprites\Barricade.cs" />
+    <Compile Include="SpaceInvaders\Managers\ConcreteManagers\BarricadeManager.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\ConcreteAnimators\BlinkAnimator.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\ConcreteAnimators\CellAnimator.cs" />
+    <Compile Include="Infrastructure\Managers\CollisionsManager.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\CompositeAnimator.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\ConcreteAnimators\FadeOutAnimator.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\ConcreteAnimators\RotateAnimator.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\ConcreteAnimators\ShrinkAnimator.cs" />
+    <Compile Include="Infrastructure\ObjectModel\GameService.cs" />
+    <Compile Include="Infrastructure\Interfaces\ICollisionsManager.cs" />
+    <Compile Include="Infrastructure\Interfaces\IInputManager.cs" />
+    <Compile Include="Infrastructure\Managers\InputManager.cs" />
+    <Compile Include="Infrastructure\ObjectModel\LoadableDrawableComponent.cs" />
+    <Compile Include="Infrastructure\ObjectModel\RegisteredComponent.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Sprite.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Animations\SpriteAnimator.cs" />
+    <Compile Include="Infrastructure\ObjectModel\Menues\MenuItems\MenuItem.cs" />
+    <Compile Include="Infrastructure\Common\Utils.cs" />
+    <Compile Include="SpaceInvaders\Screens\WelcomeScreen.cs" />
+    <Compile Include="SpaceInvaders\SpaceInvaders.cs" />
+    <Compile Include="SpaceInvaders\Sprites\Bullet.cs" />
+    <Compile Include="SpaceInvaders\Sprites\Enemy.cs" />
+    <Compile Include="SpaceInvaders\Screens\SpaceInvadersGameScreen.cs" />
+    <Compile Include="SpaceInvaders\Sprites\EnemyMotherShip.cs" />
+    <Compile Include="Infrastructure\ObjectModel\GameStructure.cs" />
+    <Compile Include="Infrastructure\Interfaces\IShooter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpaceInvaders\Sprites\SpaceShip.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Exercise Checking Report.txt" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
